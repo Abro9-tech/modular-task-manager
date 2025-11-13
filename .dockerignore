@@ -1,0 +1,16 @@
+# Node modules (not needed because we install http-server in container)
+node_modules
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode
+
+# Git files (optional)
+.git
+.gitignore
