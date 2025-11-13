@@ -34,5 +34,4 @@ Supports due dates, overdue task highlighting, and safe rendering with `escapeHT
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/modular-task-manager.git
-cd modular-task-manager
+git clone https://github.com/Abro9-tech/modular-task-manager.git
